@@ -29,12 +29,9 @@ java SimpleFrameMain
 
 
 
-
-
-
-
-
-
+|
+|
+|
 
 
 
@@ -44,6 +41,15 @@ java SimpleFrameMain
 1. ButterFlyPattern in Java!
 <img width="408" height="494" alt="Screenshot 2025-07-20 172928" src="https://github.com/user-attachments/assets/db75a7f1-5c8b-4f69-a506-8e6f8ac77eb5" />
 
+
+|
+|
+|
+
+
+
+2.DiamondPattern in Java!
+<img width="501" height="642" alt="image" src="https://github.com/user-attachments/assets/11e2765f-98d3-4565-a689-b451901abcbb" />
 
 
 
