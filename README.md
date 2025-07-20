@@ -29,10 +29,6 @@ java SimpleFrameMain
 
 
 
-|
-|
-|
-
 
 
 
@@ -42,9 +38,7 @@ java SimpleFrameMain
 <img width="408" height="494" alt="Screenshot 2025-07-20 172928" src="https://github.com/user-attachments/assets/db75a7f1-5c8b-4f69-a506-8e6f8ac77eb5" />
 
 
-|
-|
-|
+
 
 
 2.DiamondPattern in Java!
