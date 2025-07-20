@@ -25,4 +25,29 @@ javac SimpleFrameApp.java
 java SimpleFrameMain
 
 ![image](https://github.com/user-attachments/assets/6ec873b6-f41c-49b4-b620-e8fc3874e625)
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+1. ButterFlyPattern in Java!
+<img width="408" height="494" alt="Screenshot 2025-07-20 172928" src="https://github.com/user-attachments/assets/db75a7f1-5c8b-4f69-a506-8e6f8ac77eb5" />
+
+
+
+
+
+
 
