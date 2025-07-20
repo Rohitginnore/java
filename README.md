@@ -42,7 +42,12 @@ java SimpleFrameMain
 
 
 2.DiamondPattern in Java!
-<img width="501" height="642" alt="image" src="https://github.com/user-attachments/assets/11e2765f-98d3-4565-a689-b451901abcbb" />
+
+
+
+
+ <img width="501" height="642" alt="image" src="https://github.com/user-attachments/assets/39ec2e9d-44a1-4051-8ea6-8e1e1e7b9af2" />
+
 
 
 
